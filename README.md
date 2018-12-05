@@ -9,3 +9,6 @@ similar solution.
 Usage is simple, create a new tasks.json file by following: https://code.visualstudio.com/docs/editor/tasks
 
 Paste the code in your tasks.json file and you're all set.
+
+# Note
+If your msys2 location is in a different location than c:\msys64, you will need to modify the path to refect your installation location.
